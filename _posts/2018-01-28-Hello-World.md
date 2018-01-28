@@ -1,9 +1,6 @@
 ---
-published: false
----
----
 layout: post
-title: Up and running!
+title: Hello World
 ---
 
 No content yet.
